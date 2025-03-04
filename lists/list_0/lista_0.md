@@ -13,9 +13,9 @@
     [ x ] 10. [Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)
 
 2. Condicionais
-    [ ] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
-    [ ] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
-    [ ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
+    [ x ] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
+    [ x ] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
+    [ x ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
     [ ] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
     [ ] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
     [ ] 6. [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)
