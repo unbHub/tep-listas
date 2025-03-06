@@ -18,11 +18,11 @@
     [ x ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
     [ x ] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
     [ x ] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
-    [ ] 6. [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)
-    [ ] 7. [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
-    [ ] 8. [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)
-    [ ] 9. [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043)
-    [ ] 10. [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)
+    [ x ] 6. [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)
+    [ x ] 7. [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
+    [ x ] 8. [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)
+    [ x ] 9. [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043)
+    [ x ] 10. [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)
 
 3. Laços
     [ ] 1. [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059)
