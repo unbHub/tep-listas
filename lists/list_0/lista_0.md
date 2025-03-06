@@ -17,7 +17,7 @@
     [ x ] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
     [ x ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
     [ x ] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
-    [ ] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
+    [ x ] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
     [ ] 6. [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)
     [ ] 7. [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
     [ ] 8. [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)
