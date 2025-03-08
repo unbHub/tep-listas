@@ -32,8 +32,8 @@
     [ x ] 5. [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132)
     [ x ] 6. [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)
     [ x ] 7. [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154)
-    [ ] 8. [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160)
-    [ ] 9. [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164)
+    [ x ] 8. [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160)
+    [ x ] 9. [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164)
     [ ] 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
 
 4. Vetores e matrizes
