@@ -34,7 +34,7 @@
     [ x ] 7. [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154)
     [ x ] 8. [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160)
     [ x ] 9. [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164)
-    [ ] 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
+    [ x ] 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
 
 4. Vetores e matrizes
     [ ] 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
