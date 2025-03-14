@@ -39,7 +39,7 @@
 4. Vetores e matrizes
     [ x ] 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
     [ x ] 2. [Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)
-    [ ] 3. [Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)
+    [ x ] 3. [Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)
     [ ] 4. [Linha na Matriz](https://www.beecrowd.com.br/judge/pt/problems/view/1181)
     [ ] 5. [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1929)
     [ ] 6. [Númeração Romana para Números de Página](https://www.beecrowd.com.br/judge/pt/problems/view/1960)
