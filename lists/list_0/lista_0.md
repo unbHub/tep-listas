@@ -43,8 +43,8 @@
     [ x ] 4. [Linha na Matriz](https://www.beecrowd.com.br/judge/pt/problems/view/1181)
     [ x ] 5. [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1929)
     [ x ] 6. [Númeração Romana para Números de Página](https://www.beecrowd.com.br/judge/pt/problems/view/1960)
-    [ ] 7. [Pula Sapo](https://www.beecrowd.com.br/judge/pt/problems/view/1961)
-    [ ] 8. [Jornada nas Estrelas](https://www.beecrowd.com.br/judge/pt/problems/view/1973)
+    [ x ] 7. [Pula Sapo](https://www.beecrowd.com.br/judge/pt/problems/view/1961)
+    [ x ] 8. [Jornada nas Estrelas](https://www.beecrowd.com.br/judge/pt/problems/view/1973)
     [ ] 9. [O Enigma da Pronolândia](https://www.beecrowd.com.br/judge/pt/problems/view/1984)
     [ ] 10. [Sequência da Sequência](https://www.beecrowd.com.br/judge/pt/problems/view/2028)
 
