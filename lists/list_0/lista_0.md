@@ -49,7 +49,7 @@
     [ x ] 10. [Sequência da Sequência](https://www.beecrowd.com.br/judge/pt/problems/view/2028)
 
 5. Funções e strings
-    [ ] 1. [De Quem é a Vez?](https://www.beecrowd.com.br/judge/pt/problems/view/1914)
+    [ x ] 1. [De Quem é a Vez?](https://www.beecrowd.com.br/judge/pt/problems/view/1914)
     [ ] 2. [Bazinga!](https://www.beecrowd.com.br/judge/pt/problems/view/1828)
     [ ] 3. [Um-Dois-Três](https://www.beecrowd.com.br/judge/pt/problems/view/1332)
     [ ] 4. [Árvore de Natal](https://www.beecrowd.com.br/judge/pt/problems/view/1768)
