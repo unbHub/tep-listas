@@ -52,7 +52,7 @@
     [ x ] 1. [De Quem é a Vez?](https://www.beecrowd.com.br/judge/pt/problems/view/1914)
     [ x ] 2. [Bazinga!](https://www.beecrowd.com.br/judge/pt/problems/view/1828)
     [ x ] 3. [Um-Dois-Três](https://www.beecrowd.com.br/judge/pt/problems/view/1332)
-    [ ] 4. [Árvore de Natal](https://www.beecrowd.com.br/judge/pt/problems/view/1768)
+    [ x ] 4. [Árvore de Natal](https://www.beecrowd.com.br/judge/pt/problems/view/1768)
     [ ] 5. [Variações](https://www.beecrowd.com.br/judge/pt/problems/view/1632)
     [ ] 6. [Zero vale zero](https://www.beecrowd.com.br/judge/pt/problems/view/1871)
     [ ] 7. [Matring](https://www.beecrowd.com.br/judge/pt/problems/view/1803)
